@@ -1,4 +1,4 @@
-# Goosky S2 MAX Telemetry Widget for Futaba TX15
+# Goosky S2 MAX Telemetry Widget for RadioMaster TX15
 
 A comprehensive telemetry display widget designed specifically for the Goosky S2 MAX helicopter when used with the Futaba TX15 transmitter.
 
@@ -17,7 +17,7 @@ This Lua script provides real-time telemetry monitoring for your Goosky S2 MAX, 
 
 ## Requirements
 
-- Futaba TX15 transmitter (or compatible T15 series)
+- RadioMaster TX15 transmitter (or compatible T15 series)
 - OpenTX 2.3.x or EdgeTX 2.8+ firmware installed
 - Goosky S2 MAX with compatible telemetry receiver (e.g., R3008SB, R7108SB)
 - Telemetry link established (RF module and receiver bound)
@@ -31,6 +31,8 @@ This Lua script provides real-time telemetry monitoring for your Goosky S2 MAX, 
 
 2. **SD Card Structure**  
 Ensure your SD card has this structure:
+
+```plaintext  
 TX15/
 ├── WIDGETS/
 │   └── DBK_S2Max/
