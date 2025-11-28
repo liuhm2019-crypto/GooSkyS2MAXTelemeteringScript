@@ -1,6 +1,6 @@
 # Goosky S2 MAX Telemetry Widget for RadioMaster TX15
 
-A comprehensive telemetry display widget designed specifically for the Goosky S2 MAX helicopter when used with the Futaba TX15 transmitter.
+A comprehensive telemetry display widget designed specifically for the Goosky S2 MAX helicopter when used with the RadioMaster TX15 transmitter.
 
 ## Overview
 
