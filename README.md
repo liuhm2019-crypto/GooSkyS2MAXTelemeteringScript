@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpg" alt="Goosky S2 MAX Logo" width="200"/>
+  <img src="logo.jpg" alt="Goosky S2 MAX Logo" width="420"/>
 </div>
 
 # Goosky S2 MAX Telemetry Widget for RadioMaster TX15
