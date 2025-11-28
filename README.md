@@ -23,7 +23,7 @@ This Lua script provides real-time telemetry monitoring for your Goosky S2 MAX, 
 
 - RadioMaster TX15 transmitter (or compatible T15 series)
 - OpenTX 2.3.x or EdgeTX 2.8+ firmware installed
-- Goosky S2 MAX with compatible telemetry receiver (e.g., R3008SB, R7108SB)
+- Goosky S2 MAX with compatible telemetry receiver (elrs)
 - Telemetry link established (RF module and receiver bound)
 - MicroSD card (formatted FAT32)
 
