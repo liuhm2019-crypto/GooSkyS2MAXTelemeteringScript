@@ -8,7 +8,7 @@ This Lua script provides real-time telemetry monitoring for your Goosky S2 MAX, 
 
 ## Features
 
-- **Helicopter-Specific Layout**: Tailored display for Goblin S2 MAX parameters
+- **Helicopter-Specific Layout**: Tailored display for Goblin S2 MAX parameters 
 - **Real-Time Telemetry**: Live updates of voltage, RPM, temperature, and signal
 - **App Mode Optimization**: Full-screen display without transmitter UI clutter
 - **Low Battery Alerts**: Visual and audio warnings (configurable thresholds)
