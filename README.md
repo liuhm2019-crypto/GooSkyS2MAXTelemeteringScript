@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.jpg" alt="Goosky S2 MAX Logo" width="200"/>
+</div>
+
 # Goosky S2 MAX Telemetry Widget for RadioMaster TX15
 
 A comprehensive telemetry display widget designed specifically for the Goosky S2 MAX helicopter when used with the RadioMaster TX15 transmitter.
@@ -8,7 +12,7 @@ This Lua script provides real-time telemetry monitoring for your Goosky S2 MAX, 
 
 ## Features
 
-- **Helicopter-Specific Layout**: Tailored display for Goblin S2 MAX parameters 
+- **Helicopter-Specific Layout**: Tailored display for Goblin S2 MAX parameters
 - **Real-Time Telemetry**: Live updates of voltage, RPM, temperature, and signal
 - **App Mode Optimization**: Full-screen display without transmitter UI clutter
 - **Low Battery Alerts**: Visual and audio warnings (configurable thresholds)
@@ -19,7 +23,7 @@ This Lua script provides real-time telemetry monitoring for your Goosky S2 MAX, 
 
 - RadioMaster TX15 transmitter (or compatible T15 series)
 - OpenTX 2.3.x or EdgeTX 2.8+ firmware installed
-- Goosky S2 MAX with compatible telemetry    
+- Goosky S2 MAX with compatible telemetry receiver (e.g., R3008SB, R7108SB)
 - Telemetry link established (RF module and receiver bound)
 - MicroSD card (formatted FAT32)
 
